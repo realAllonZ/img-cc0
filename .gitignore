@@ -1,0 +1,14 @@
+# --- System Files ---
+.DS_Store              # macOS folder metadata
+Thumbs.db              # Windows image cache
+desktop.ini            # Windows folder settings
+
+# --- Editor/IDE Files ---
+.vscode/               # VS Code settings
+.idea/                 # JetBrains IDE settings
+*.swp                  # Vim swap files
+*.swo                  # Vim swap files
+
+# --- Upload/Temp Files ---
+*.tmp                  # Temporary files
+*.log                  # Log files   
